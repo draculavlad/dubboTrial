@@ -96,7 +96,7 @@ cd dubbo-demo-consumer-2.4.11/bin
 ./start.sh
 ```
 
-## run monitorer
+## run monitor
 ```shell
 cd dubbo-simple/dubbo-monitor-simple/target/
 tar zxf dubbo-monitor-simple-2.4.11-assembly.tar.gz
