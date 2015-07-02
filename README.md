@@ -1,6 +1,9 @@
 # dubboTrial
 * try dubbo
 
+## things you should know before your go further
+* There is a fork of alibaba/dubbo which is much easier to setup and run the demo. The url of the fork is "https://github.com/dangdangdotcom/dubbox";
+
 ## references ##
 * https://github.com/alibaba/dubbo/tree/dubbo-2.4.11
 * https://github.com/alibaba/dubbo/issues/22
