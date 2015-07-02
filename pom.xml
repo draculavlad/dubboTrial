@@ -10,6 +10,11 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>dubbo-consumer</module>
+    <module>dubbo-consumer</module>
+    <module>dubbo-provider</module>
+    <module>dubbo-remote-api</module>
+    <module>dubbo-monitor</module>
+    <module>dubbo-admin</module>
   </modules>
 
   <properties>
